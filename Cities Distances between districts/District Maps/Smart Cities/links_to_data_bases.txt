@@ -1,0 +1,48 @@
+San Fransisco:
+https://www2.census.gov/geo/maps/blk2000/st06_California/County/06075_SanFrancisco/
+
+Baltimore:
+https://www.baltometro.org/phocadownload/Maps/CensusTracts/2010_Tract_BaCity.pdf
+
+Sydney:
+https://voommaps.com/postcode-maps/map-of-sydney-postcodes/
+
+Washington DC:
+https://www.neighborhoodinfodc.org/censustract/census.html
+
+LA:
+http://www.city-data.com/zipmaps/Los-Angeles-California.html
+(postal/ZIP codes)
+
+Chicago:
+http://www.city-data.com/zipmaps/Chicago-Illinois.html
+http://zipmap.net/Illinois/Cook_County/Chicago.htm
+(postal/ZIP codes)
+
+Vancouver:
+https://www.tourismvancouver.com/vancouver/municipalities/
+
+Toronto:
+http://realvaluehome.ca/GTA.html
+
+Hamburg:
+http://www.statistik-nord.de/fileadmin/maps/Stadtteil_Profile_2017/atlas.html
+
+London:
+www.ab247.co.uk/local-collection-areas
+
+Zurich:
+https://en.wikipedia.org/wiki/Subdivisions_of_Z%C3%BCrich
+
+Vienna:
+https://en.wikipedia.org/wiki/Districts_of_Vienna#/media/File:Vienna,_administrative_divisions_-_Nmbrs.svg
+
+Sydney:
+https://voommaps.com/postcode-maps/map-of-sydney-postcodes/
+
+Melbourne:
+https://voommaps.com/postcode-maps/map-of-melbourne-postcodes/
+
+Berlin: 
+https://de.wikipedia.org/wiki/Berliner_Bezirke
+https://www.in-berlin-brandenburg.com/Berliner_Bezirke/stadtplan-berlin.html
